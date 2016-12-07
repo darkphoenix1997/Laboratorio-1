@@ -19,4 +19,5 @@ def imc(x,y):
       print "Obesidad"
     else:
       print "Obesidad morbida"
+#Luis Manuel Garcia Valdivia
 
