@@ -8,4 +8,5 @@ def tiempo(s):
     print(horas, "horas")
     print(minutos, "minutos")
     print(segundos, "segundos")
+#Luis Manuel Garcia Valdivia
 
