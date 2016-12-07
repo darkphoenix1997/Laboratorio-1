@@ -9,4 +9,4 @@ def funcion(x):
 for i in range(0,4):
   saldoinicial=funcion(saldoinicial)
   print funcion(saldoinicial)
-
+  #Luis Manuel Garcia Valdivia
